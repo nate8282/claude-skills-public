@@ -1,6 +1,6 @@
 # claude-skills
 
-A small collection of [Claude](https://claude.ai/) skills I've written and want to share. Practical, opinionated, and shaped by real bugs from real builds.
+A small collection of [Claude](https://claude.ai/) skills I've written and want to share. Practical and shaped by real bugs from real builds.
 
 ## What's a Claude skill?
 
