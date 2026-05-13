@@ -1,6 +1,6 @@
 ---
 name: live-dashboard
-description: Build a live, multi-panel dashboard as a Claude Live Artifact, one that re-queries connectors on its own schedule, persists user state, and survives reloads. Use this any time someone asks for a "dashboard," "live artifact," "status page," "ops tracker," "executive overview," or any HTML/artifact that pulls from connectors and is supposed to keep showing fresh data over time, even if they don't say the word "dashboard." Especially use it before designing any UI for a connector-backed artifact, because the most common failure mode is building the UI first and discovering at the end that the data shape was different than assumed.
+description: Build live, multi-panel Cowork Artifacts backed by connectors. Use for dashboard, live artifact, status page, ops tracker, executive overview.
 ---
 
 # Live Dashboard
